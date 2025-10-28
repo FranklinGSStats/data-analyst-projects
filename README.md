@@ -29,12 +29,6 @@ Aspiring **Data Analyst** | Self-taught via Kaggle, LeetCode, and Google Data An
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
-
----
-
 ## 📬 Let’s Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/franklin-gyeni-sampong)  
 - ✉️ nanaosei0440@gmail.com  
