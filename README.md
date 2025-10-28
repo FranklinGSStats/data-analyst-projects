@@ -23,8 +23,7 @@ Aspiring **Data Analyst** | Self-taught via Kaggle, LeetCode, and Google Data An
 
 ---
 
-## 📜 Certifications
-- **Google Data Analytics Professional Certificate** – Coursera *(In Progress)*  
+## 📜 Certifications  
 - **SQL for Data Analysis** – Mode Analytics *(In Progress)*  
 
 ---
