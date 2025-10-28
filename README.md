@@ -15,7 +15,7 @@ Aspiring **Data Analyst** | Self-taught via Kaggle, LeetCode, and Google Data An
 | Skill | Tools |
 |------|-------|
 | **SQL** | PostgreSQL, SQLite, Window Functions, CTEs |
-| **Excel / Sheets** | Pivot Tables, Power Query, XLOOKUP |
+| **Excel / Sheets** | Pivot Tables, Power Query, XLOOKUP, VLOOKUP |
 | **Visualization** | Tableau Public, Power BI (learning) |
 | **Python** | Pandas, NumPy, Jupyter |
 
